@@ -1,0 +1,29 @@
+h5 {font-family: 'Mitr', sans-serif;
+    color: #17395C;
+}
+
+p {font-family: 'Pridi', serif;
+
+}
+
+.years {
+   color: #17395C;
+}
+
+.my-name{
+text-transform: uppercase;
+  font-size: 90px;
+}
+
+.my-bg {
+ background-image: url("../images/header2.2.png") ;
+
+}
+
+.my-bg1 {
+   background-image: url("../images/bg1.png") ;
+}
+
+
+
+
